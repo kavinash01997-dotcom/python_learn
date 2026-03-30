@@ -1,0 +1,10 @@
+hardware = input()
+ram = input()
+nvme = input ()
+
+print ("enter the name")
+print (str(hardware))
+print ("enter the name")
+print (int(ram))
+print ("enter the name")
+print (int(nvme))
